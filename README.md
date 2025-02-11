@@ -1,20 +1,18 @@
-# Hi there! 👋 Welcome to My GitHub Profile
-
-<div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*cPrF_XMe7U6atYgM.gif">
-</div>
-
-![Profile Banner](https://via.placeholder.com/1500x500?text=Welcome+to+my+GitHub!)
-
----
-
-## 🙋‍♂️ About Me  
+# Hi there! 👋 Welcome to My GitHub Profile 
 Hi, I'm **Ikeji Michael Osondu**, a passionate and driven **Data Science student** with a knack for solving societal problems through data-driven solutions. I'm skilled in **C++, Python, Seaborn, Scikit-Learn, Pandas, MySQL, SQLite, Figma, MATLAB, and Power BI**.  
 
 🚀 As a detail-driven and curious individual, I believe in the power of data to create impactful insights and drive decision-making.  
 I'm currently on a journey to master Data Science & Machine Learning, and always looking to collaborate on exciting projects that push the boundaries of what's possible, specifically any project on **recommendation systems** that leverage **NLP, HCI, and Generative AI**.
 
+![Profile Banner](https://via.placeholder.com/1500x500?text=Welcome+to+my+GitHub!)
+
 ---
+<div align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*cPrF_XMe7U6atYgM.gif">
+</div>
+
+---
+
 
 ## 🌟 Skills & Tools  
 
